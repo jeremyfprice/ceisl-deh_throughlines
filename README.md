@@ -4,4 +4,4 @@ Each throughline is supported by a definition and a series of commitments. The d
 
 This repository contains the JSON file for the Throughlines.
 
-![The throughlines in graphic representation]([throughlines-graphic.png](https://raw.githubusercontent.com/jeremyfprice/ceisl-deh_throughlines/main/throughlines_graphic.png)https://raw.githubusercontent.com/jeremyfprice/ceisl-deh_throughlines/main/throughlines_graphic.png)
+![The throughlines in graphic representation](https://raw.githubusercontent.com/jeremyfprice/ceisl-deh_throughlines/main/throughlines_graphic.png)
